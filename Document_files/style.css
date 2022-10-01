@@ -1,0 +1,596 @@
+*{margin: 0;}
+
+header{
+overflow: hidden;
+}
+
+.baner{
+width: 100%;
+height: 50px;
+background-color: blanchedalmond;
+color: black;
+text-align: center;
+}
+
+.lion{
+overflow: hidden;
+}
+.tiger{
+    width: 20%;
+    height: 150px;
+    background-color: rgb(224, 198, 159);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.cat{
+    width: 80%;
+    height: 150px;
+    background-color: rgb(204, 173, 126);
+    color: black;
+    text-align: center;
+float: left;
+}
+
+.cat{
+
+}
+.dog{
+    width: 50%;
+    height: 150px;
+    background-color: rgb(240, 216, 181);
+    color: black;
+    text-align: center;
+float: left;
+}
+
+.duck{
+    width: 50%;
+    height: 150px;
+    background-color: rgb(156, 131, 97);
+    color: black;
+    text-align: center;
+float: left;
+}
+
+.dog{
+overflow: hidden;
+}
+
+.rabit{
+    width: 50%;
+    height: 150px;
+    background-color: rgb(153, 121, 79);
+    color: black;
+    text-align: center;
+float: left;
+}
+
+.fox{
+    width: 50%;
+    height: 150px;
+    background-color: rgb(121, 100, 74);
+    color: black;
+    text-align: center;
+float: left;
+}
+
+.aladdin{
+
+}
+.ant{
+    width: 20%;
+    height: 150px;
+    background-color: rgb(173, 142, 94);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.bat{
+    width: 40%;
+    height: 150px;
+    background-color: rgb(173, 150, 116);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.cap{
+    width: 40%;
+    height: 150px;
+    background-color: rgb(189, 149, 90);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.bat{
+
+}
+
+.doll{
+    width: 50%;
+    height: 150px;
+    background-color: rgb(176, 194, 76);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.egg{
+
+    width: 50%;
+    height: 150px;
+    background-color: rgb(160, 172, 97);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.cap{
+
+}
+
+.ear{
+    width: 100%;
+    height: 75px;
+    background-color: rgb(182, 161, 66);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.eye{
+
+    width: 100%;
+    height: 75px;
+    background-color: rgb(141, 117, 51);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.huzaifa{
+
+}
+
+.frog{
+    width: 20%;
+    height: 150px;
+    background-color: rgb(145, 108, 52);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.fruits{
+    width: 40%;
+    height: 150px;
+    background-color: rgb(151, 121, 76);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.fanta{
+    width: 40%;
+    height: 150px;
+    background-color: rgb(209, 182, 141);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.fruits{
+
+}
+
+.apple{
+    width: 50%;
+    height: 150px;
+    background-color: #0fd69a;
+    color: black;
+    text-align: center;
+    float: left; 
+}
+
+.mango{
+    width: 50%;
+    height: 150px;
+    background-color: #1ba078;
+    color: black;
+    text-align: center;
+    float: left; 
+}
+
+.apple{
+
+}
+
+.mouse{
+    width: 100%;
+    height: 50px;
+    background-color: #83c518;
+    color: black;
+    text-align: center;
+    float: left; 
+}
+
+.pc{
+    width: 100%;
+    height: 50px;
+    background-color: #4f7a09;
+    color: black;
+    text-align: center;
+    float: left; 
+}
+
+.monitor{
+    width: 100%;
+    height: 50px;
+    background-color: #83c518;
+    color: black;
+    text-align: center;
+    float: left; 
+}
+
+.lift{
+    width: 100%;
+    height: 50px;
+    background-color: #51721c;
+    color: black;
+    text-align: center;
+    float: left; 
+}
+
+.frez{
+    width: 100%;
+    height: 50px;
+    background-color: #81b430;
+    color: black;
+    text-align: center;
+    float: left; 
+}
+
+.dor{
+    width: 100%;
+    height: 50px;
+    background-color: #587030;
+    color: black;
+    text-align: center;
+    float: left; 
+}
+
+.fanta{
+
+}
+
+.gate{
+    width: 100%;
+    height: 75px;
+    background-color: rgb(231, 209, 112);
+    color: black;
+    text-align: center;
+    float: left; 
+}
+
+.shop{
+    width: 100%;
+    height: 75px;
+    background-color: rgb(141, 123, 44);
+    color: black;
+    text-align: center;
+    float: left; 
+}
+
+.raha{
+
+}
+.anas{
+    width: 20%;
+    height: 150px;
+    background-color: rgb(182, 141, 80);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.ligt{
+    width: 40%;
+    height: 150px;
+    background-color: rgb(86, 156, 189);
+    color: black;
+    text-align: center;
+    float: left;
+    
+}
+.fan{
+    width: 40%;
+    height: 150px;
+    background-color: rgb(214, 202, 94);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.ligt{
+
+}
+
+.click{
+    width: 50%;
+    height: 150px;
+    background-color: rgb(86, 156, 189);
+    color: black;
+    text-align: center;
+    float: left; 
+}
+
+.bed{
+    width: 50%;
+    height: 150px;
+    background-color: rgb(31, 113, 151);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.click{
+
+}
+
+.mike{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(89, 143, 167);
+    color: black;
+    text-align: center;
+    float: left;
+}
+.head{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(35, 79, 99);
+    color: black;
+    text-align: center;
+    float: left;
+}
+.hand{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(89, 143, 167);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.bed{
+
+}
+
+.bike{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(35, 79, 99);
+    color: black;
+    text-align: center;
+    float: left;
+}
+.dead{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(89, 143, 167);
+    color: black;
+    text-align: center;
+    float: left;
+}
+.land{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(35, 79, 99);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.fan{
+
+}
+
+.jar{
+    width: 100%;
+    height: 75px;
+    background-color: rgb(144, 146, 32);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.glass{
+    width: 100%;
+    height: 75px;
+    background-color: rgb(187, 189, 82);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.rubel{
+
+}
+
+.logi{
+    width: 20%;
+    height: 150px;
+    background-color: rgb(143, 107, 55);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.cable{
+    width: 40%;
+    height: 150px;
+    background-color: rgb(79, 189, 16);
+    color: black;
+    text-align: center;
+    float: left
+}
+
+.camera{
+    width: 40%;
+    height: 150px;
+    background-color: rgb(160, 170, 26);
+    color: black;
+    text-align: center;
+    float: left;
+}
+.ram{
+    width: 50%;
+    height: 150px;
+    background-color:rgb(206, 123, 55);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.rom{
+    width: 50%;
+    height: 150px;
+    background-color:rgb(156, 82, 21);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.ram{
+
+}
+
+.ssd{
+    width: 100%;
+    height: 50px;
+    background-color:rgb(206, 123, 55);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.hdd{
+    width: 100%;
+    height: 50px;
+    background-color:rgb(156, 82, 21);
+    color: black;
+    text-align: center;
+    float: left;  
+}
+
+.dvd{
+    width: 100%;
+    height: 50px;
+    background-color:rgb(206, 123, 55);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.rom{
+
+}
+
+.ssc{
+    width: 100%;
+    height: 50px;
+    background-color:rgb(156, 82, 21);
+    color: black;
+    text-align: center;
+    float: left;  
+}
+
+.hsc{
+
+    width: 100%;
+    height: 50px;
+    background-color:rgb(206, 123, 55);
+    color: black;
+    text-align: center;
+    float: left;  
+}
+.psc{
+    width: 100%;
+    height: 50px;
+    background-color:rgb(156, 82, 21);
+    color: black;
+    text-align: center;
+    float: left;  
+}
+
+.camera{
+
+}
+
+.tnt{
+    width: 100%;
+    height: 75px;
+    background-color: rgb(216, 219, 19);
+    color: black;
+    text-align: center;
+    float: left;  
+}
+
+.rent{
+    width: 100%;
+    height: 75px;
+    background-color: rgb(157, 160, 9);
+    color: black;
+    text-align: center;
+    float: left;  
+}
+
+.road{
+
+}
+
+.vlc{
+    width: 20%;
+    height: 125px;
+    background-color: rgb(201, 156, 93);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.utf{
+    width: 40%;
+    height: 125px;
+    background-color: rgb(38, 196, 91);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+.crlf{
+    width: 40%;
+    height: 125px;
+    background-color: rgb(188, 190, 47);
+    color: black;
+    text-align: center;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
